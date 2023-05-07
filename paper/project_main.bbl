@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{#1}
+\csname url@rmstyle\endcsname
+\providecommand{\newblock}{\relax}
+\providecommand{\bibinfo}[2]{#2}
+\providecommand\BIBentrySTDinterwordspacing{\spaceskip=0pt\relax}
+\providecommand\BIBentryALTinterwordstretchfactor{4}
+\providecommand\BIBentryALTinterwordspacing{\spaceskip=\fontdimen2\font plus
+\BIBentryALTinterwordstretchfactor\fontdimen3\font minus
+  \fontdimen4\font\relax}
+\providecommand\BIBforeignlanguage[2]{{%
+\expandafter\ifx\csname l@#1\endcsname\relax
+\typeout{** WARNING: IEEEtran.bst: No hyphenation pattern has been}%
+\typeout{** loaded for the language `#1'. Using the pattern for}%
+\typeout{** the default language instead.}%
+\else
+\language=\csname l@#1\endcsname
+\fi
+#2}}
+
+\bibitem{xiao2017fashion}
+H.~Xiao, K.~Rasul, and R.~Vollgraf, ``Fashion-mnist: a novel image dataset for
+  benchmarking machine learning algorithms,'' \emph{arXiv preprint
+  arXiv:1708.07747}, 2017.
+
+\bibitem{lecun1998mnist}
+Y.~LeCun, ``The mnist database of handwritten digits,'' \emph{http://yann.
+  lecun. com/exdb/mnist/}, 1998.
+
+\bibitem{chollet2015keras}
+F.~Chollet \emph{et~al.}, ``Keras,'' \url{https://keras.io}, 2015.
+
+\bibitem{he2016deep}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun, ``Deep residual learning for image
+  recognition,'' in \emph{Proceedings of the IEEE conference on computer vision
+  and pattern recognition}, 2016, pp. 770--778.
+
+\bibitem{lecun1998gradient}
+Y.~LeCun, L.~Bottou, Y.~Bengio, and P.~Haffner, ``Gradient-based learning
+  applied to document recognition,'' \emph{Proceedings of the IEEE}, vol.~86,
+  no.~11, pp. 2278--2324, 1998.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton, ``Imagenet classification with
+  deep convolutional neural networks,'' \emph{Advances in neural information
+  processing systems}, vol.~25, pp. 1097--1105, 2012.
+
+\bibitem{simonyan2014very}
+K.~Simonyan and A.~Zisserman, ``Very deep convolutional networks for
+  large-scale image recognition,'' \emph{arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{zhang2019evaluation}
+Y.~Zhang, ``Evaluation of cnn models with fashion mnist data,'' 2019.
+
+\bibitem{duan2019image}
+C.~Duan, P.~Yin, Y.~Zhi, and X.~Li, ``Image classification of fashion-mnist
+  data set based on vgg network,'' in \emph{Proceedings of 2019 2nd
+  International Conference on Information Science and Electronic Technology
+  (ISET 2019). International Informatization and Engineering Associations:
+  Computer Science and Electronic Technology International Society}, vol.~19,
+  2019.
+
+\bibitem{bhatnagar2017classification}
+S.~Bhatnagar, D.~Ghosal, and M.~H. Kolekar, ``Classification of fashion article
+  images using convolutional neural networks,'' in \emph{2017 Fourth
+  International Conference on Image Information Processing (ICIIP)}.\hskip 1em
+  plus 0.5em minus 0.4em\relax IEEE, 2017, pp. 1--6.
+
+\bibitem{srivastava2014dropout}
+N.~Srivastava, G.~Hinton, A.~Krizhevsky, I.~Sutskever, and R.~Salakhutdinov,
+  ``Dropout: a simple way to prevent neural networks from overfitting,''
+  \emph{The journal of machine learning research}, vol.~15, no.~1, pp.
+  1929--1958, 2014.
+
+\bibitem{ILSVRC15}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, A.~C. Berg, and L.~Fei-Fei, ``{ImageNet
+  Large Scale Visual Recognition Challenge},'' \emph{International Journal of
+  Computer Vision (IJCV)}, vol. 115, no.~3, pp. 211--252, 2015.
+
+\bibitem{deng2009imagenet}
+J.~Deng, W.~Dong, R.~Socher, L.-J. Li, K.~Li, and L.~Fei-Fei, ``Imagenet: A
+  large-scale hierarchical image database,'' in \emph{2009 IEEE conference on
+  computer vision and pattern recognition}.\hskip 1em plus 0.5em minus
+  0.4em\relax Ieee, 2009, pp. 248--255.
+
+\end{thebibliography}
